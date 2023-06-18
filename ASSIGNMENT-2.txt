@@ -1,0 +1,34 @@
+                                                                                                                                                    ASSIGNMENT-2
+
+
+1.     As a web developer, you might use several tools to help you design, develop, and maintain websites. Here are some of the most common tools:
+
+             1. Text editors
+             2. Version control systems
+             3. Package managers
+             4. Task runners and build tools
+             5. CSS preprocessors
+             6. Design tools
+             7. Debugging tools
+             8. Content management systems
+             9. Testing tools
+           10. Deployment tools
+
+           These tools can help you write and edit code, manage and track changes to your code, install and manage packages and dependencies, automate repetitive tasks and build processes, write CSS code more efficiently, create designs and                  mockups, debug and troubleshoot issues, create and manage websites, automate testing, and deploy and host your web projects.
+ 
+
+2.       Some of the features of PW Skills Online Lab include:
+
+              1. Interactive learning: PW Skills Online Lab provides interactive learning experiences that allow students to learn by doing. This is useful because it helps students to retain information better and to apply what they have learned in real-world            situations.
+
+              2. Real-world scenarios: PW Skills Online Lab uses real-world scenarios to help students learn how to apply the skills they are learning. This is useful because it helps students to develop practical skills that they can use in their careers.
+
+             3. Practice exercises: PW Skills Online Lab provides practice exercises that allow students to reinforce what they have learned. This is useful because it helps students to master the skills they are learning and to build confidence in their abilities.
+ 
+            4. Feedback: PW Skills Online Lab provides feedback to students as they work through the course material. This is useful because it helps students to identify areas where they need to improve and to get help when they are stuck.
+
+            5. Self-paced learning: PW Skills Online Lab allows students to learn at their own pace. This is useful because it allows students to take the time they need to master the material and to work around their own schedules.
+
+           6. Mobile compatibility: PW Skills Online Lab is compatible with mobile devices, which allows students to learn on the go. This is useful because it allows students to learn whenever and wherever they have time.
+
+           These features are useful because they provide students with a comprehensive and flexible learning experience that allows them to develop practical skills that they can use in their careers.
